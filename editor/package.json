@@ -76,7 +76,7 @@
     "react-loading-skeleton": "^3.5.0",
     "react-qrcode-logo": "^3.0.0",
     "react-range": "^1.8.14",
-    "react-router-dom": "^6.6.1",
+    "react-router-dom": "^6.30.4",
     "react-scripts": "^5.0.1",
     "react-select": "^5.8.0",
     "react-share": "^5.1.2",
