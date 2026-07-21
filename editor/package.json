@@ -29,7 +29,7 @@
     "@testing-library/user-event": "^14.4.3",
     "@tinymce/tinymce-react": "^6.0.0",
     "@uiw/react-codemirror": "^4.23.10",
-    "axios": "^1.7.9",
+    "axios": "^1.18.1",
     "bootstrap": "^5.2.3",
     "bowser": "^2.11.0",
     "classnames": "^2.5.1",
